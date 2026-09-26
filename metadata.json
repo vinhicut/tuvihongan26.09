@@ -1,0 +1,6 @@
+{
+  "name": "Tử Vi Hồng Ân",
+  "description": "Tử Vi Hồng Ân - Lập lá số Tử Vi, Bát Quái Phong Thủy, Bói Kiều Tarot và Đặt lịch luận giải chuyên sâu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
